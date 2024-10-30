@@ -69,7 +69,7 @@ header > p {
 
     text-shadow: 2px 2px 2px #0000008c;
 
-    margin-bottom: 20px;
+    padding-bottom: 40px; /*padding não sobresai por cima do menu ou outra box. O margin (que estava antes) estava ficando em cima do menu.*/
     
 }
 
